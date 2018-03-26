@@ -2,6 +2,9 @@
 In this project i use ReactJS to create faucet.
 To claim faucet player has to win OX game
 This run on Rinkerby TestNet
+This code i combine my code from 
+https://github.com/bank8426/reactjs-eth-web3-dashboard
+https://github.com/bank8426/reactjs-ai-amazingox
 
 First login to your account
 ![alt text](https://s9.postimg.org/x12lsw2kv/Image_1.png)

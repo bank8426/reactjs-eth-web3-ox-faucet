@@ -40,7 +40,7 @@ class FaucetSetup extends Component {
 	  	//if passphase and confirm match then start create new account
 	  	if(this.state.ownerPassphase === this.state.ownerConfirmPassphase)
 	  	{
-	  		console.log("yes");
+	  		//console.log("yes");
 	  		//connect
 	    	var web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));
 	    	//unlock account to verify passphase

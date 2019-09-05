@@ -6,29 +6,26 @@ This code i combine my code from
 https://github.com/bank8426/reactjs-eth-web3-dashboard
 https://github.com/bank8426/reactjs-ai-amazingox
 
-First login to your account
-![alt text](https://drive.google.com/uc?id=12IjGyv5GiDwm2_T4UKYplPJErad8dHat)
+First login to your account<br>
+<img src="https://drive.google.com/uc?id=12IjGyv5GiDwm2_T4UKYplPJErad8dHat" width="600"/>
 
-The balance will show up
+The balance will show up<br>
+<img src="https://drive.google.com/uc?id=1v7DA19ainpBTxmFs_Av_sH19ALDaEzGy" width="600"/>
 
-![alt text](https://s9.postimg.org/h43tvl2an/Image_2.png)
+Set amount of reward<br>
+<img src="https://drive.google.com/uc?id=1VioHAD62pi5pBsygn0SfI6ADakOFFUnZ" width="600"/>
 
-Set amount of reward
+After that data will show on Faucet Balance Component<br>
+<img src="https://drive.google.com/uc?id=1ixIeHv3qv2olB2xJBMh58DAJp_CG8MWt" width="600"/>
 
-![alt text](https://s9.postimg.org/h43tvla0f/Image_3.png)
+Enter player address and Try to win game<br>
+<img src="https://drive.google.com/uc?id=1RmUWksEyz-RCWoake3_Hxsuq1M-7DR--" width="600"/>
 
-After that data will show on Faucet Balance Component 
-![alt text](https://s9.postimg.org/5ezu7ndwv/Image_4.png)
+If win faucet will create new transaction<br>
+<img src="https://drive.google.com/uc?id=1nDnACWYtrn3oIMS2kahn2V0NTt_p00Eo" width="600"/>
 
-Enter player address and Try to win game
-
-![alt text](https://s9.postimg.org/knprlezvj/Image_5.png)
-
-If win faucet will create new transaction
-![alt text](https://s9.postimg.org/6ha0q69kv/Image_6.png)
-
-The reward transaction will show up
-![alt text](https://s9.postimg.org/xrvby3k7j/Image_7.png)
+The reward transaction will show up<br>
+<img src="https://drive.google.com/uc?id=1SFvlxIOCjoyWllmEvKboPIYJb3SCMXn0" width="600"/>
 
 
 

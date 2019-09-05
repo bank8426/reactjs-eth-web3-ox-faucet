@@ -7,7 +7,7 @@ https://github.com/bank8426/reactjs-eth-web3-dashboard
 https://github.com/bank8426/reactjs-ai-amazingox
 
 First login to your account
-![alt text](https://s9.postimg.org/x12lsw2kv/Image_1.png)
+![alt text](https://drive.google.com/uc?id=12IjGyv5GiDwm2_T4UKYplPJErad8dHat)
 
 The balance will show up
 
